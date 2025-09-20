@@ -1,0 +1,14 @@
+[2025-09-01T18:54:18.157+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sparking_flow.start scheduled__2025-09-01T04:00:00+00:00 [queued]>
+[2025-09-01T18:54:18.177+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sparking_flow.start scheduled__2025-09-01T04:00:00+00:00 [queued]>
+[2025-09-01T18:54:18.180+0000] {taskinstance.py:1359} INFO - Starting attempt 1 of 1
+[2025-09-01T18:54:18.260+0000] {taskinstance.py:1380} INFO - Executing <Task(PythonOperator): start> on 2025-09-01 04:00:00+00:00
+[2025-09-01T18:54:18.309+0000] {standard_task_runner.py:57} INFO - Started process 232 to run task
+[2025-09-01T18:54:18.325+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'sparking_flow', 'start', 'scheduled__2025-09-01T04:00:00+00:00', '--job-id', '16', '--raw', '--subdir', 'DAGS_FOLDER/spark_***.py', '--cfg-path', '/tmp/tmplb52o2u6']
+[2025-09-01T18:54:18.347+0000] {standard_task_runner.py:85} INFO - Job 16: Subtask start
+[2025-09-01T18:54:18.605+0000] {task_command.py:415} INFO - Running <TaskInstance: sparking_flow.start scheduled__2025-09-01T04:00:00+00:00 [running]> on host 7b2a3a75c36f
+[2025-09-01T18:54:19.165+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='Kudzaishe Manyanya' AIRFLOW_CTX_DAG_ID='sparking_flow' AIRFLOW_CTX_TASK_ID='start' AIRFLOW_CTX_EXECUTION_DATE='2025-09-01T04:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-09-01T04:00:00+00:00'
+[2025-09-01T18:54:19.177+0000] {logging_mixin.py:151} INFO - Jobs started
+[2025-09-01T18:54:19.179+0000] {python.py:194} INFO - Done. Returned value was: None
+[2025-09-01T18:54:19.236+0000] {taskinstance.py:1398} INFO - Marking task as SUCCESS. dag_id=sparking_flow, task_id=start, execution_date=20250901T040000, start_date=20250901T185418, end_date=20250901T185419
+[2025-09-01T18:54:19.463+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2025-09-01T18:54:19.595+0000] {taskinstance.py:2776} INFO - 1 downstream tasks scheduled from follow-on schedule check
