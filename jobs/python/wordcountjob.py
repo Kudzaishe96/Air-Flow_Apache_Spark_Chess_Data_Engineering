@@ -193,8 +193,8 @@ def database_colums(table):
     )
 
     properties = {
-    "user": "kudzie",
-    "password": "Naruto1#",
+    "user": "*",
+    "password": "*",
     "driver": "com.microsoft.sqlserver.jdbc.SQLServerDriver"
     }
 
