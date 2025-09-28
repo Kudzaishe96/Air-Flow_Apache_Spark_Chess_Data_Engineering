@@ -9,6 +9,7 @@
 - [ Data Source ](#Data-Source)
 - [ Tools ](#Tools)
 - [ Azure Resources ](#Azure-Resources)
+- [ Docker ](#Docker)
 - [ Data Extraction and Cleaning  ](#Data-Extraction-(Bronze-Layer))
 - [ Data Reporting ](#Data-Cleaning-(Silver-Layer))
 - [ Gold Layer](#Gold-Layer)
@@ -38,7 +39,11 @@ API :Chess.com
 ### Azure Resources
 -SQL Database
   
-
+### Docker
+1. Compose a docker image which countains spark, airflow,postgress
+2. Use port 8080 to have access to arflow and configure the spark connection
+3. Use Aiflow to trigger the job and monitor the job
+   
 ### Data Extraction and Cleaning
 1. Call out various Api cals from chess.com
 2. Convert the data to pandas to spark dataframes
