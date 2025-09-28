@@ -46,9 +46,9 @@ API :Chess.com
 4. Extract it to the SQL Server
 
 ### Data Reporting
-1.Coonect your data to power bi
-2.Design a template for your report
-3.Publish the report as a webbased report
+1. Coonect your data to power bi
+2. Design a template for your report
+3. Publish the report as a webbased report
 
 
    
