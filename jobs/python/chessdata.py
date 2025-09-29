@@ -8,7 +8,7 @@ from pyspark.sql.functions import *
 from pyspark.sql.types import *
 
 
-spark = SparkSession.builder.appName("PythonWordCount").getOrCreate()
+spark = SparkSession.builder.appName("Chess").getOrCreate()
 
 dfs = {
 

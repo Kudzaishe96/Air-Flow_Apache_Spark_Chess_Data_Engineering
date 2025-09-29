@@ -22,7 +22,7 @@ start = PythonOperator(
 python_job = SparkSubmitOperator(
     task_id="python_job",
     conn_id="spark-conn",
-    application="jobs/python/wordcountjob.py",
+    application="jobs/python/chessdata.py",
     jars="/opt/spark/external-jars/apache-spark-sql-connector.jar",
     dag=dag
 )
