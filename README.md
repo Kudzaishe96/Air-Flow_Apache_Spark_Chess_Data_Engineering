@@ -51,11 +51,10 @@ API :Chess.com
 4. Extract it to the SQL Server
 
 ### Data Reporting
-1. Coonect your data to power bi
-2. Design a template for your report
+1. Conect  from Azure SQL Server Power BI
+2. Design a template for your report and create the necesary Dax functions
 3. Publish the report as a webbased report
 
 
-   
 
  #  The End

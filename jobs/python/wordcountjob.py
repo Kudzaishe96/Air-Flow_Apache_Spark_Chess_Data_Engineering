@@ -39,7 +39,6 @@ if response.status_code == 200:
         # print(f"\nLeaderboard Category: {category_name}")
 
         # Convert the list of players into a DataFrame
-        # df = pd.DataFrame(category_data)
         dfs[category_name] = pd.DataFrame(category_data)
     print(dfs.keys())
 
@@ -263,8 +262,8 @@ def write_data_kue_insert(df, table):
     )
 
     properties = {
-        "user": "kudzie",
-        "password": "Naruto1#",
+        "user": "*",
+        "password": "*",
         "driver": "com.microsoft.sqlserver.jdbc.SQLServerDriver"
     }
 
@@ -292,8 +291,8 @@ def write_data_force_insert(df, table):
     )
 
     properties = {
-        "user": "kudzie",
-        "password": "Naruto1#",
+        "user": "*",
+        "password": "*",
         "driver": "com.microsoft.sqlserver.jdbc.SQLServerDriver"
     }
 
