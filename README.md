@@ -12,7 +12,6 @@
 - [ Docker ](#Docker)
 - [ Data Extraction and Cleaning  ](#Data-Extraction-(Bronze-Layer))
 - [ Data Reporting ](#Data-Cleaning-(Silver-Layer))
-- [ Gold Layer](#Gold-Layer)
 
 
 ### Project Overview
