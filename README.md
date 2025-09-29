@@ -21,7 +21,7 @@ This project seek to show the extraction of raw data into meaningfull sql views 
 
 ## Air-Flow_Apache_Spark_Chess_Data_Engineering_Achitecture
 
-
+![alt text](<Airflow Docker Achitecture.drawio-1.svg>)
 
 
 ### Data Source
@@ -54,6 +54,8 @@ API :Chess.com
 2. Design a template for your report and create the necesary Dax functions
 3. Publish the report as a webbased report
 
+## Power BI Report
 
+![alt text](image.png)
 
  #  The End
