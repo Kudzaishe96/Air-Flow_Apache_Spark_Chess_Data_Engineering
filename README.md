@@ -56,6 +56,7 @@ API :Chess.com
 
 ## Power BI Report
 
-![alt text](image.png)
+<img width="997" height="553" alt="image" src="https://github.com/user-attachments/assets/0e98dd34-d081-4287-875c-b0226aa6e0d3" />
+
 
  #  The End
