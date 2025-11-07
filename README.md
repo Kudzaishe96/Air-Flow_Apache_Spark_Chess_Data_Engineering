@@ -21,7 +21,8 @@ This project seek to show the extraction of raw data into meaningfull sql views 
 
 ## Air-Flow_Apache_Spark_Chess_Data_Engineering_Achitecture
 
-![alt text](<Airflow Docker Achitecture.drawio-1.svg>)
+<img width="1486" height="675" alt="image" src="https://github.com/user-attachments/assets/e4cb95e3-f649-4aa7-b333-5b371a1e6b1d" />
+
 
 
 ### Data Source
