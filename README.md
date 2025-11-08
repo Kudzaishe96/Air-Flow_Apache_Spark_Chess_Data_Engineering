@@ -20,8 +20,8 @@ This project seek to show the extraction of raw data into meaningfull sql views 
 
 
 ## Air-Flow_Apache_Spark_Chess_Data_Engineering_Achitecture
+<img width="1012" height="504" alt="image" src="https://github.com/user-attachments/assets/f8d52b34-dd66-4edc-b89c-73751a6e1e93" />
 
-<img width="1486" height="675" alt="image" src="https://github.com/user-attachments/assets/e4cb95e3-f649-4aa7-b333-5b371a1e6b1d" />
 
 
 
