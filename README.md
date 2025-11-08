@@ -57,7 +57,7 @@ API :Chess.com
 
 ## Power BI Report
 
-<img width="1530" height="622" alt="image" src="https://github.com/user-attachments/assets/2420942c-9fb1-4b63-9fa6-17462dd78ded" />
+<img width="1579" height="674" alt="image" src="https://github.com/user-attachments/assets/50d624d8-58ce-4b24-b95e-89a31752688e" />
 
 
 
