@@ -56,7 +56,7 @@ API :Chess.com
 3. Publish the report as a webbased report
 
 ## Power BI Report
-
+![alt text](chess.jpg)
 
 ### Report link
 https://app.powerbi.com/view?r=eyJrIjoiYmZlNzdiMDUtMTM4Ny00MDU4LTg1ZmItZWJjODYwNTc0ODAzIiwidCI6Ijc1NTE5MmU4LTBiYTAtNDNkMS04NDBhLTBhYjliY2JiOWY4ZSJ9
